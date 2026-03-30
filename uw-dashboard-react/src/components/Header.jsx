@@ -2,7 +2,7 @@ export default function Header({ searchTerm, onSearchChange }) {
   return (
     <header className="header">
       <div className="logo-section">
-        <div className="logo-icon">🎓</div>
+        <div className="logo-icon"></div>
         <div>
           <p className="eyebrow">University of Waterloo</p>
           <h1>UW Dashboard</h1>
