@@ -34,6 +34,3 @@ src/
   main.jsx
   styles.css
 ```
-
-## Notes
-This project was rebuilt from a static HTML reference into a React application so it is cleaner to maintain, easier to extend, and more aligned with a modern front-end workflow.
