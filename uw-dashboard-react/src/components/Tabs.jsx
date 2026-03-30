@@ -1,8 +1,8 @@
 const tabs = [
   { key: 'all', label: 'All Apps' },
-  { key: 'academic', label: '📚 Academic' },
-  { key: 'student-life', label: '🎯 Student Life' },
-  { key: 'tools', label: '🛠️ Tools' },
+  { key: 'academic', label: 'Academic' },
+  { key: 'student-life', label: 'Student Life' },
+  { key: 'tools', label: 'Tools' },
 ];
 
 export default function Tabs({ activeCategory, onChangeCategory }) {
