@@ -2,7 +2,6 @@ export const apps = [
   {
     name: 'WaterlooWorks',
     url: 'https://waterlooworks.uwaterloo.ca/home.htm',
-    icon: '💼',
     color: 'gold',
     category: 'academic',
     desc: 'Co-op jobs and postings',
@@ -10,7 +9,6 @@ export const apps = [
   {
     name: 'Quest',
     url: 'https://quest.pecs.uwaterloo.ca/psc/SS/ACADEMIC/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL',
-    icon: '📝',
     color: 'rose',
     category: 'academic',
     desc: 'Course registration and records',
@@ -18,7 +16,6 @@ export const apps = [
   {
     name: 'Portal',
     url: 'https://portal.uwaterloo.ca/',
-    icon: '🎓',
     color: 'mint',
     category: 'academic',
     desc: 'Official student portal',
@@ -26,7 +23,6 @@ export const apps = [
   {
     name: 'UW Learn',
     url: 'https://learn.uwaterloo.ca/d2l/home',
-    icon: '📚',
     color: 'gold',
     category: 'academic',
     desc: 'Course materials and announcements',
@@ -34,7 +30,6 @@ export const apps = [
   {
     name: 'Tunnel Map',
     url: 'https://watisgrass.vercel.app/',
-    icon: '🗺️',
     color: 'mint',
     category: 'student-life',
     desc: 'Navigate campus pathways',
@@ -42,7 +37,6 @@ export const apps = [
   {
     name: 'UW Flow',
     url: 'https://uwflow.com/',
-    icon: '⭐',
     color: 'sky',
     category: 'student-life',
     desc: 'Course reviews and ratings',
@@ -50,7 +44,6 @@ export const apps = [
   {
     name: 'r/uwaterloo',
     url: 'https://www.reddit.com/r/uwaterloo/',
-    icon: '💬',
     color: 'rose',
     category: 'student-life',
     desc: 'Student community discussions',
@@ -58,7 +51,6 @@ export const apps = [
   {
     name: 'Recreation',
     url: 'https://athletics.uwaterloo.ca/sports/warrior-recreation',
-    icon: '🏋️',
     color: 'gold',
     category: 'student-life',
     desc: 'Campus fitness and recreation',
@@ -66,7 +58,6 @@ export const apps = [
   {
     name: 'WatGuessr',
     url: 'https://watguessr.io/',
-    icon: '🎯',
     color: 'mint',
     category: 'student-life',
     desc: 'Campus guessing game',
@@ -74,7 +65,6 @@ export const apps = [
   {
     name: 'GRT Transit',
     url: 'https://grtapp.ca/v3/stop.asp?',
-    icon: '🚌',
     color: 'gold',
     category: 'tools',
     desc: 'Bus schedules and routes',
@@ -82,7 +72,6 @@ export const apps = [
   {
     name: 'Weather',
     url: 'https://www.theweathernetwork.com/en/city/ca/ontario/waterloo/current',
-    icon: '🌤️',
     color: 'sky',
     category: 'tools',
     desc: 'Local Waterloo forecast',
@@ -90,7 +79,6 @@ export const apps = [
   {
     name: 'Gmail',
     url: 'https://mail.google.com/',
-    icon: '✉️',
     color: 'sky',
     category: 'tools',
     desc: 'Personal email access',
@@ -98,7 +86,6 @@ export const apps = [
   {
     name: 'Outlook',
     url: 'https://outlook.office.com/mail/',
-    icon: '📅',
     color: 'sky',
     category: 'tools',
     desc: 'Email and calendar',
@@ -106,7 +93,6 @@ export const apps = [
   {
     name: 'Perplexity',
     url: 'https://www.perplexity.ai/',
-    icon: '🤖',
     color: 'slate',
     category: 'tools',
     desc: 'AI search assistant',
@@ -114,7 +100,6 @@ export const apps = [
   {
     name: 'Reverse ATS',
     url: 'https://chromewebstore.google.com/detail/reverseats-job-matcher/ipkldjngbilnepdikdjmhjhfagbjllnj',
-    icon: '📄',
     color: 'slate',
     category: 'tools',
     desc: 'Job matching helper',
@@ -122,7 +107,6 @@ export const apps = [
   {
     name: 'WatRank',
     url: 'https://watrank.com/',
-    icon: '📊',
     color: 'slate',
     category: 'tools',
     desc: 'Course ranking insights',
@@ -130,7 +114,6 @@ export const apps = [
   {
     name: 'Notion',
     url: 'https://www.notion.com/',
-    icon: '🗂️',
     color: 'slate',
     category: 'tools',
     desc: 'Notes and docs workspace',
