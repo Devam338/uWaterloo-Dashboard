@@ -64,10 +64,7 @@ export default function App() {
         <Stats counts={counts} onSelectCategory={setActiveCategory} />
         <Tabs activeCategory={activeCategory} onChangeCategory={setActiveCategory} />
         <AppGrid apps={filteredApps} />
-
-        <footer className="footer">
-          Built as a centralized Waterloo resource dashboard with React and reusable UI components.
-        </footer>
+        
       </main>
     </div>
   );
