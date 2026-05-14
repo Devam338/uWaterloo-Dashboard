@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import Header from './components/Header';
 import Stats from './components/Stats';
 import Tabs from './components/Tabs';
-import AppGrid from './components/AppGrid';
+import AppGrid from './components/AppGrid'; 
 import { apps, categoryLabels } from './data/apps';
 
 function getCounts(items) {
