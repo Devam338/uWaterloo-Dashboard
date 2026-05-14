@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState } from 'react'; 
 import Header from './components/Header';
 import Stats from './components/Stats';
 import Tabs from './components/Tabs';
