@@ -3,7 +3,7 @@ export default function AppCard({ app }) {
     <a
       className="app-card"
       href={app.url}
-      target="_blank"
+      target="_blank" 
       rel="noreferrer"
       aria-label={`Open ${app.name}`}
     >
