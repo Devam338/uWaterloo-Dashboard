@@ -1,7 +1,7 @@
 export default function AppCard({ app }) {
   return (
     <a
-      className="app-card"
+      className="app-card" 
       href={app.url}
       target="_blank" 
       rel="noreferrer"
