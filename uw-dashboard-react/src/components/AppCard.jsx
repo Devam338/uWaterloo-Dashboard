@@ -9,7 +9,7 @@ export default function AppCard({ app }) {
     >
       <div className={`app-icon icon-${app.color}`}>{app.icon}</div>
       <div className="app-name">{app.name}</div>
-      <div className="app-desc">{app.desc}</div>
+      <div className="app-desc">{app.desc}</div> 
       <span className="app-link">Open resource ↗</span>
     </a>  
   );
