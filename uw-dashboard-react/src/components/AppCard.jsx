@@ -11,6 +11,6 @@ export default function AppCard({ app }) {
       <div className="app-name">{app.name}</div>
       <div className="app-desc">{app.desc}</div>
       <span className="app-link">Open resource ↗</span>
-    </a> 
+    </a>  
   );
 }
