@@ -3,7 +3,7 @@
 A responsive React dashboard that organizes essential University of Waterloo resources into one searchable, categorized interface. It streamlines access to frequently used tools and information, helping students save time and stay organized throughout their academic experience.
 
 ## Features
-- Search resources by name or description 
+- Search resources by name or description  
 - Filter by Academic, Student Life, and Tools
 - Quick stats cards for category counts
 - Responsive card-based dashboard UI
